@@ -247,9 +247,9 @@ const person = {
  * spread синтаксис
  */
 
-const array = [1, 2, 3];
-const obj = { ...array }; // { 0: 1, 1: 2, 2: 3 }
-console.log(obj);
+// const array = [1, 2, 3];
+// const obj = { ...array }; // { 0: 1, 1: 2, 2: 3 }
+// console.log(obj);
 
 // const array1 = [1, 2, 3, 4, 5];
 // const array2 = [6, 7, 8, 9, 10];

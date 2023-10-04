@@ -24,19 +24,3 @@
 // console.log([] && false);
 // console.log([] || false);
 // console.log(['test1'] + ['test2']);
-
-
-// const userNames = ["Петрик Ольга Іванівна", "Гнатюк Петро Антонович",
-// "Рудко Андрій Опанасович"];
-//
-// let initials = [];
-// const str = "Петрик Ольга Іванівна";
-// for (let i=0; i<userNames.length; i++){
-//     for (let j = 0; j < userNames[i].length; j++) {
-//         if (userNames[i][j].match(/[А-ЩЬЮЯҐЄІЇ]/)) {
-//             initials[i]+=userNames[i][j]+'.';
-//         }
-//     }
-// }
-//
-// console.log(initials);
