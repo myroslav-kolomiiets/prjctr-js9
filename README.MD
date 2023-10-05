@@ -4,3 +4,4 @@
 * [02. Primitives in details](./02_primitives/README.MD)
 * [03. Arrays in details](./03_arrays/README.MD)
 * [04. Objects in details](./04_objects/README.MD)
+* [05. Functions basics](./05_functions/README.MD)
