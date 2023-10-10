@@ -5,3 +5,4 @@
 * [03. Arrays in details](./03_arrays/README.MD)
 * [04. Objects in details](./04_objects/README.MD)
 * [05. Functions basics](./05_functions/README.MD)
+* [06. Set/Map](./06_set-map/README.MD)
