@@ -10,3 +10,4 @@
 * [08. Function advanced 2](./08_function_advanced_2/README.MD)
 * [09. Parsing function workshop](./09_parsing_function/README.MD)
 * [10. DOM basics 1](./10_dom_basics_1/README.MD)
+* [11. DOM basics 2](./11_dom_basics_2/README.MD)
