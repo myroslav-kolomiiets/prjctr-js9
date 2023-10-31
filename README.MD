@@ -6,3 +6,7 @@
 * [04. Objects in details](./04_objects/README.MD)
 * [05. Functions basics](./05_functions/README.MD)
 * [06. Set/Map](./06_set-map/README.MD)
+* [07. Function advanced 1](./07_function_advanced_1/README.MD)
+* [08. Function advanced 2](./08_function_advanced_2/README.MD)
+* [09. Parsing function workshop](./09_parsing_function/README.MD)
+* [10. DOM basics 1](./10_dom_basics_1/README.MD)
