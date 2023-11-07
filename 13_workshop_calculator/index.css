@@ -9,75 +9,75 @@
     border-radius: 1px;
 }
 
-.calculator__cell-1 {
+.calculator__button-cell-1 {
     grid-area: 1 / 1 / 2 / 5;
 }
 
-.calculator__cell-2 {
+.calculator__button-cell-2 {
     grid-area: 2 / 1 / 3 / 2;
 }
 
-.calculator__cell-3 {
+.calculator__button-cell-3 {
     grid-area: 2 / 2 / 3 / 3;
 }
 
-.calculator__cell-4 {
+.calculator__button-cell-4 {
     grid-area: 2 / 3 / 3 / 4;
 }
 
-.calculator__cell-5 {
+.calculator__button-cell-5 {
     grid-area: 2 / 4 / 3 / 5;
 }
 
-.calculator__cell-6 {
+.calculator__button-cell-6 {
     grid-area: 3 / 1 / 4 / 2;
 }
 
-.calculator__cell-7 {
+.calculator__button-cell-7 {
     grid-area: 3 / 2 / 4 / 3;
 }
 
-.calculator__cell-8 {
+.calculator__button-cell-8 {
     grid-area: 3 / 3 / 4 / 4;
 }
 
-.calculator__cell-9 {
+.calculator__button-cell-9 {
     grid-area: 4 / 1 / 5 / 2;
 }
 
-.calculator__cell-10 {
+.calculator__button-cell-10 {
     grid-area: 4 / 2 / 5 / 3;
 }
 
-.calculator__cell-11 {
+.calculator__button-cell-11 {
     grid-area: 4 / 3 / 5 / 4;
 }
 
-.calculator__cell-12 {
+.calculator__button-cell-12 {
     grid-area: 5 / 1 / 6 / 2;
 }
 
-.calculator__cell-13 {
+.calculator__button-cell-13 {
     grid-area: 5 / 2 / 6 / 3;
 }
 
-.calculator__cell-14 {
+.calculator__button-cell-14 {
     grid-area: 5 / 3 / 6 / 4;
 }
 
-.calculator__cell-15 {
+.calculator__button-cell-15 {
     grid-area: 6 / 1 / 7 / 2;
 }
 
-.calculator__cell-16 {
+.calculator__button-cell-16 {
     grid-area: 6 / 2 / 7 / 3;
 }
 
-.calculator__cell-17 {
+.calculator__button-cell-17 {
     grid-area: 6 / 3 / 7 / 4;
 }
 
-.calculator__cell-18 {
+.calculator__button-cell-18 {
     grid-area: 3 / 4 / 7 / 5;
 }
 
