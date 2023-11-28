@@ -15,3 +15,5 @@
 * [13. Workshop Calculator](./13_workshop_calculator/README.MD)
 * [14. Workshop Book List](./14_workshop_book_list/README.MD)
 * [15. OOP](./15_OOP/README.MD)
+* [16. Async programing 1](./16_async_programing_1/README.MD)
+* [17. Async programing 2](./17_async_programing_2/README.MD)
