@@ -18,3 +18,4 @@
 * [16. Async programing 1](./16_async_programing_1/README.MD)
 * [17. Async programing 2](./17_async_programing_2/README.MD)
 * [18. Async programing 3](./18_async_programing_3/README.MD)
+* [19. Weather app workshop](./19_workshop_weather_app/README.MD)
