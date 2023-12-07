@@ -19,4 +19,4 @@
 * [17. Async programing 2](./17_async_programing_2/README.MD)
 * [18. Async programing 3](./18_async_programing_3/README.MD)
 * [19. Weather app workshop](./19_workshop_weather_app/README.MD)
-* [19. Github search workshop](./20_workshop_github_search/README.MD)
+* [20. GitHub search workshop](./20_workshop_github_search/README.MD)
